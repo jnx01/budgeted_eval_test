@@ -1,0 +1,11 @@
+# Hugging Face datasets library - loads summeval-annotated-latest
+datasets
+
+# Data manipulation - one-row-per-task reshaping
+pandas
+
+# Numerical ops - bootstrap/random trials
+numpy
+
+# Plotting - the 3 required figures
+matplotlib
